@@ -1,4 +1,5 @@
-﻿#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视高清",CCTV1
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视高清",CCTV1
 http://192.168.0.3:501/rtp/233.50.201.118:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视高清",CCTV2
 http://192.168.0.3:501/rtp/233.50.201.119:5140
@@ -165,7 +166,7 @@ http://192.168.0.3:501/rtp/233.50.201.176:5140
 #EXTINF:-1 tvg-id="48" tvg-name="杭州5青少" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州5青少
 http://192.168.0.3:501/rtp/233.50.201.177:5140
 #EXTINF:-1 tvg-id="48" tvg-name="杭州导视" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州导视
-https://udp.xmaroon.top:16666/rtp/233.50.201.182:5140
+http://192.168.0.3:501/rtp/233.50.201.182:5140
 #EXTINF:-1 tvg-id="49" tvg-name="宁波TV1" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",宁波TV1
 http://192.168.0.3:501/rtp/233.50.201.168:5140 
 #EXTINF:-1 tvg-id="49" tvg-name="宁波TV2" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",宁波TV2
@@ -203,7 +204,7 @@ http://192.168.0.3:501/rtp/233.50.202.11:5140
 #EXTINF:-1 tvg-id="49" tvg-name="衢州公共" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",衢州公共
 http://192.168.0.3:501/rtp/233.50.202.12:5140
 #EXTINF:-1 tvg-id="48" tvg-name="余杭新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",余杭新闻
-https://udp.xmaroon.top:16666/rtp/233.50.201.159:5140
+http://192.168.0.3:501/rtp/233.50.201.159:5140
 #EXTINF:-1 tvg-id="6605" tvg-name="优优宝贝" tvg-logo="http://yourhost/iptv-logo/yybb.jpg" group-title="数字付费",优优宝贝
 http://192.168.0.3:501/rtp/233.50.202.24:5140
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="影视剧场",新视觉HD
