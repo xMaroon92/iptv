@@ -1,0 +1,151 @@
+#EXTM3U url-tvg="https://xtv.xmaroon.top:16666/xmltv/xteve.xml" x-tvg-url="https://xtv.xmaroon.top:16666/xmltv/xteve.xml"
+#EXTINF:0 channelID="x-ID.0" tvg-chno="1000" tvg-name="CCTV1" tvg-id="1000" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视高清",CCTV1
+https://xtv.xmaroon.top:16666/stream/24924f6d905db47ce9db318502143403
+#EXTINF:0 channelID="x-ID.1" tvg-chno="1001" tvg-name="CCTV2" tvg-id="1001" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视高清",CCTV2
+https://xtv.xmaroon.top:16666/stream/032c9b38f51eb12e04fb84a69b34a6b5
+#EXTINF:0 channelID="x-ID.2" tvg-chno="1002" tvg-name="CCTV3" tvg-id="1002" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视高清",CCTV3
+https://xtv.xmaroon.top:16666/stream/1f82b2ce367d79739366fb2a2f6c3823
+#EXTINF:0 channelID="x-ID.3" tvg-chno="1003" tvg-name="CCTV4" tvg-id="1003" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视高清",CCTV4
+https://xtv.xmaroon.top:16666/stream/f679618192182442e704867c2cf2f12d
+#EXTINF:0 channelID="x-ID.4" tvg-chno="1004" tvg-name="CCTV5" tvg-id="1004" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视高清",CCTV5
+https://xtv.xmaroon.top:16666/stream/753ec64a45da62682a734419536365df
+#EXTINF:0 channelID="x-ID.5" tvg-chno="1005" tvg-name="CCTV5+" tvg-id="1005" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视高清",CCTV5+
+https://xtv.xmaroon.top:16666/stream/be696f16cf38c458505258ef81242ecc
+#EXTINF:0 channelID="x-ID.6" tvg-chno="1006" tvg-name="CCTV6" tvg-id="1006" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视高清",CCTV6
+https://xtv.xmaroon.top:16666/stream/ccd783b0f130c174bd6281e7ae75f3e1
+#EXTINF:0 channelID="x-ID.7" tvg-chno="1007" tvg-name="CCTV7" tvg-id="1007" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视高清",CCTV7
+https://xtv.xmaroon.top:16666/stream/3fe86a35061ab8171fa3155fa99cbcbe
+#EXTINF:0 channelID="x-ID.8" tvg-chno="1008" tvg-name="CCTV8" tvg-id="1008" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视高清",CCTV8
+https://xtv.xmaroon.top:16666/stream/dd69032018150ee3292cb477154c8129
+#EXTINF:0 channelID="x-ID.9" tvg-chno="1009" tvg-name="CCTV9" tvg-id="1009" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视高清",CCTV9
+https://xtv.xmaroon.top:16666/stream/a715a3543906e7632e1c4c4423715ba4
+#EXTINF:0 channelID="x-ID.10" tvg-chno="1010" tvg-name="CCTV10" tvg-id="1010" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视高清",CCTV10
+https://xtv.xmaroon.top:16666/stream/81dea0e54133729352f6223d4adb957c
+#EXTINF:0 channelID="x-ID.11" tvg-chno="1011" tvg-name="CCTV11" tvg-id="1011" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视高清",CCTV11
+https://xtv.xmaroon.top:16666/stream/cf895712241ab3daef91ce6cf1b026f0
+#EXTINF:0 channelID="x-ID.12" tvg-chno="1012" tvg-name="CCTV12" tvg-id="1012" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视高清",CCTV12
+https://xtv.xmaroon.top:16666/stream/21904dad9b9fed6c4ab1c56e633dcea4
+#EXTINF:0 channelID="x-ID.13" tvg-chno="1013" tvg-name="CCTV13" tvg-id="1013" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视高清",CCTV13
+https://xtv.xmaroon.top:16666/stream/3b1de612e110ceb600a1d39cd44eb8b7
+#EXTINF:0 channelID="x-ID.14" tvg-chno="1014" tvg-name="CCTV14" tvg-id="1014" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视高清",CCTV14
+https://xtv.xmaroon.top:16666/stream/e43018bbed9dc76442769b4d8d321c0a
+#EXTINF:0 channelID="x-ID.15" tvg-chno="1015" tvg-name="CCTV15" tvg-id="1015" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视高清",CCTV15
+https://xtv.xmaroon.top:16666/stream/a0f01a34764de07bab1c419e9173a3c6
+#EXTINF:0 channelID="x-ID.18" tvg-chno="1018" tvg-name="CCTV17" tvg-id="1018" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视高清",CCTV17
+https://xtv.xmaroon.top:16666/stream/c1c3d6cbbdfd92cbf7f2c5c612e999a6
+#EXTINF:0 channelID="x-ID.20" tvg-chno="1020" tvg-name="浙江卫视" tvg-id="1020" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视高清",浙江卫视
+https://xtv.xmaroon.top:16666/stream/2424aea4d4b31f72ef57fccd636822af
+#EXTINF:0 channelID="x-ID.22" tvg-chno="1022" tvg-name="东方卫视" tvg-id="1022" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视高清",东方卫视
+https://xtv.xmaroon.top:16666/stream/6e018ce7e3d203ce1d67fb6c1de3a590
+#EXTINF:0 channelID="x-ID.24" tvg-chno="1024" tvg-name="深圳卫视" tvg-id="1024" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视高清",深圳卫视
+https://xtv.xmaroon.top:16666/stream/bb1629f841178f94a9caf2eac41b002d
+#EXTINF:0 channelID="x-ID.26" tvg-chno="1026" tvg-name="广东卫视" tvg-id="1026" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视高清",广东卫视
+https://xtv.xmaroon.top:16666/stream/3bb3933eea33102290f74bc56db5189f
+#EXTINF:0 channelID="x-ID.28" tvg-chno="1028" tvg-name="湖南卫视" tvg-id="1028" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视高清",湖南卫视
+https://xtv.xmaroon.top:16666/stream/98e3d0027da549cb419337d8fab01120
+#EXTINF:0 channelID="x-ID.30" tvg-chno="1030" tvg-name="山东卫视" tvg-id="1030" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视高清",山东卫视
+https://xtv.xmaroon.top:16666/stream/b1bb07e51aa1e3f20b0a7002fa42e490
+#EXTINF:0 channelID="x-ID.32" tvg-chno="1032" tvg-name="江苏卫视" tvg-id="1032" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视高清",江苏卫视
+https://xtv.xmaroon.top:16666/stream/76c01831317bd3dc0ddf470816027771
+#EXTINF:0 channelID="x-ID.34" tvg-chno="1034" tvg-name="北京卫视" tvg-id="1034" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视高清",北京卫视
+https://xtv.xmaroon.top:16666/stream/9d317caabd8abb642409ce8a79cd6b42
+#EXTINF:0 channelID="x-ID.36" tvg-chno="1036" tvg-name="四川卫视" tvg-id="1036" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视高清",四川卫视
+https://xtv.xmaroon.top:16666/stream/410ec1a7d4ba6a111314da3d67da39c1
+#EXTINF:0 channelID="x-ID.37" tvg-chno="1037" tvg-name="天津卫视" tvg-id="1037" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视高清",天津卫视
+https://xtv.xmaroon.top:16666/stream/66a2cdd7b29355b1ff3cb599191c04bf
+#EXTINF:0 channelID="x-ID.38" tvg-chno="1038" tvg-name="河北卫视" tvg-id="1038" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视高清",河北卫视
+https://xtv.xmaroon.top:16666/stream/c47295769e169ca968c938e625f33fa2
+#EXTINF:0 channelID="x-ID.39" tvg-chno="1039" tvg-name="辽宁卫视" tvg-id="1039" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视高清",辽宁卫视
+https://xtv.xmaroon.top:16666/stream/64680045500c323615fc51bd0a46b857
+#EXTINF:0 channelID="x-ID.40" tvg-chno="1040" tvg-name="贵州卫视" tvg-id="1040" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视高清",贵州卫视
+https://xtv.xmaroon.top:16666/stream/9ece1a4c09998a553005c4c2aefefea5
+#EXTINF:0 channelID="x-ID.41" tvg-chno="1041" tvg-name="重庆卫视" tvg-id="1041" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视高清",重庆卫视
+https://xtv.xmaroon.top:16666/stream/52f86f5b0c71577fa91809786a2cd722
+#EXTINF:0 channelID="x-ID.42" tvg-chno="1042" tvg-name="河南卫视" tvg-id="1042" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视高清",河南卫视
+https://xtv.xmaroon.top:16666/stream/592a1255b55f5998fb74394d297126be
+#EXTINF:0 channelID="x-ID.43" tvg-chno="1043" tvg-name="江西卫视" tvg-id="1043" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视高清",江西卫视
+https://xtv.xmaroon.top:16666/stream/ec0382ec63249c107d01d546fcb23782
+#EXTINF:0 channelID="x-ID.44" tvg-chno="1044" tvg-name="东南卫视" tvg-id="1044" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视高清",东南卫视
+https://xtv.xmaroon.top:16666/stream/fc1770f22eddcfff49527a7ab974928e
+#EXTINF:0 channelID="x-ID.45" tvg-chno="1045" tvg-name="安徽卫视" tvg-id="1045" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视高清",安徽卫视
+https://xtv.xmaroon.top:16666/stream/61b5951a7007f1c419104da2e0f7019f
+#EXTINF:0 channelID="x-ID.46" tvg-chno="1046" tvg-name="湖北卫视" tvg-id="1046" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视高清",湖北卫视
+https://xtv.xmaroon.top:16666/stream/bdf7905aa98e86d69698810702a737d5
+#EXTINF:0 channelID="x-ID.47" tvg-chno="1047" tvg-name="黑龙江卫视" tvg-id="1047" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视高清",黑龙江卫视
+https://xtv.xmaroon.top:16666/stream/ef7929019b766c91bc40cc7eb81770b6
+#EXTINF:0 channelID="x-ID.48" tvg-chno="1048" tvg-name="甘肃卫视" tvg-id="1048" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视高清",甘肃卫视
+https://xtv.xmaroon.top:16666/stream/80fdf0cc87f212a56d5314bc4ac0621e
+#EXTINF:0 channelID="x-ID.49" tvg-chno="1049" tvg-name="海南卫视" tvg-id="1049" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视高清",海南卫视
+https://xtv.xmaroon.top:16666/stream/9ea8c3c4573d52f4949b9ebc4d284e54
+#EXTINF:0 channelID="x-ID.50" tvg-chno="1050" tvg-name="广西卫视" tvg-id="1050" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视高清",广西卫视
+https://xtv.xmaroon.top:16666/stream/d9acc79691d88ede38658f42880644f6
+#EXTINF:0 channelID="x-ID.51" tvg-chno="1051" tvg-name="云南卫视" tvg-id="1051" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视高清",云南卫视
+https://xtv.xmaroon.top:16666/stream/0c988307a084b2d367076fbf798e63fe
+#EXTINF:0 channelID="x-ID.52" tvg-chno="1052" tvg-name="吉林卫视" tvg-id="1052" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视高清",吉林卫视
+https://xtv.xmaroon.top:16666/stream/8244a5b85ce3c85815f080615cebb203
+#EXTINF:0 channelID="x-ID.53" tvg-chno="1053" tvg-name="三沙卫视" tvg-id="1053" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视高清",三沙卫视
+https://xtv.xmaroon.top:16666/stream/dbcdbc7de3b57b86ce28dbf458f0a5ab
+#EXTINF:0 channelID="x-ID.54" tvg-chno="1054" tvg-name="哈哈炫动" tvg-id="1054" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="卫视高清",哈哈炫动
+https://xtv.xmaroon.top:16666/stream/d26c297150fab71662881f0d69899636
+#EXTINF:0 channelID="x-ID.57" tvg-chno="1057" tvg-name="内蒙古卫视" tvg-id="1057" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视标清",内蒙古卫视
+https://xtv.xmaroon.top:16666/stream/8a00e55f4d393afac2cc9d829705a87b
+#EXTINF:0 channelID="x-ID.58" tvg-chno="1058" tvg-name="青海卫视" tvg-id="1058" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视标清",青海卫视
+https://xtv.xmaroon.top:16666/stream/b097660f458e72c45f4b97d2b7e7e272
+#EXTINF:0 channelID="x-ID.59" tvg-chno="1059" tvg-name="西藏卫视" tvg-id="1059" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视标清",西藏卫视
+https://xtv.xmaroon.top:16666/stream/f2fe6d4ef6ad46a9ddff4894eb8b5fcc
+#EXTINF:0 channelID="x-ID.60" tvg-chno="1060" tvg-name="陕西卫视" tvg-id="1060" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视标清",陕西卫视
+https://xtv.xmaroon.top:16666/stream/555c92db00b2a8af382ab02d024ca966
+#EXTINF:0 channelID="x-ID.61" tvg-chno="1061" tvg-name="兵团卫视" tvg-id="1061" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视标清",兵团卫视
+https://xtv.xmaroon.top:16666/stream/8d930413186977aac5cced10c2c62a05
+#EXTINF:0 channelID="x-ID.62" tvg-chno="1062" tvg-name="山西卫视" tvg-id="1062" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视标清",山西卫视
+https://xtv.xmaroon.top:16666/stream/d45e7dfc835eff126271aa765f39ce0b
+#EXTINF:0 channelID="x-ID.63" tvg-chno="1063" tvg-name="宁夏卫视" tvg-id="1063" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视标清",宁夏卫视
+https://xtv.xmaroon.top:16666/stream/8b56402ce09186cc92f8ccd582b7d376
+#EXTINF:0 channelID="x-ID.64" tvg-chno="1064" tvg-name="金鹰卡通" tvg-id="1064" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视标清",金鹰卡通
+https://xtv.xmaroon.top:16666/stream/0d33df1d734f993fa4aaca7c84ceb43f
+#EXTINF:0 channelID="x-ID.65" tvg-chno="1065" tvg-name="凤凰卫视中文" tvg-id="1065" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="国际标清",凤凰卫视中文
+https://xtv.xmaroon.top:16666/stream/f3575eb277e1d74e9311b18f96610a45
+#EXTINF:0 channelID="x-ID.66" tvg-chno="1066" tvg-name="凤凰卫视资讯" tvg-id="1066" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="国际标清",凤凰卫视资讯
+https://xtv.xmaroon.top:16666/stream/b9837ee58765154121379f329e5fa19c
+#EXTINF:0 channelID="x-ID.72" tvg-chno="1072" tvg-name="钱江频道" tvg-id="1072" tvg-logo="http://yourhost/iptv-logo/qianjiang.png" group-title="地方高清",钱江频道
+https://xtv.xmaroon.top:16666/stream/66d0af8956670de11247aba4b842f347
+#EXTINF:0 channelID="x-ID.73" tvg-chno="1073" tvg-name="浙江经济生活" tvg-id="1073" tvg-logo="http://yourhost/iptv-logo/qianjiang.png" group-title="地方高清",浙江经济生活
+https://xtv.xmaroon.top:16666/stream/19d17f1bc32e15f662d8cc16e5d58763
+#EXTINF:0 channelID="x-ID.74" tvg-chno="1074" tvg-name="浙江教育" tvg-id="1074" tvg-logo="http://yourhost/iptv-logo/qianjiang.png" group-title="地方高清",浙江教育
+https://xtv.xmaroon.top:16666/stream/72be43a7c0440a6a77d5bd28fd07f1c5
+#EXTINF:0 channelID="x-ID.75" tvg-chno="1075" tvg-name="浙江民生" tvg-id="1075" tvg-logo="http://yourhost/iptv-logo/qianjiang.png" group-title="地方高清",浙江民生
+https://xtv.xmaroon.top:16666/stream/c27008d75011045f009ef0a1e0df45ee
+#EXTINF:0 channelID="x-ID.76" tvg-chno="1076" tvg-name="浙江新闻" tvg-id="1076" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",浙江新闻
+https://xtv.xmaroon.top:16666/stream/eb7afcfcd8548dbde172ee8309aca150
+#EXTINF:0 channelID="x-ID.77" tvg-chno="1077" tvg-name="浙江少儿" tvg-id="1077" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",浙江少儿
+https://xtv.xmaroon.top:16666/stream/fbc9a5715a8e934e558cf75b3014674e
+#EXTINF:0 channelID="x-ID.78" tvg-chno="1078" tvg-name="杭州1综合" tvg-id="1078" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州1综合
+https://xtv.xmaroon.top:16666/stream/1dcbe45dfc22bbf41e09258dea4f1a7d
+#EXTINF:0 channelID="x-ID.79" tvg-chno="1079" tvg-name="杭州2明珠" tvg-id="1079" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州2明珠
+https://xtv.xmaroon.top:16666/stream/c68af44e789b728057f1ed2dd526e850
+#EXTINF:0 channelID="x-ID.80" tvg-chno="1080" tvg-name="杭州3生活" tvg-id="1080" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州3生活
+https://xtv.xmaroon.top:16666/stream/48c37d98f6ffd631441638b799eeec9d
+#EXTINF:0 channelID="x-ID.81" tvg-chno="1081" tvg-name="杭州4影视" tvg-id="1081" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州4影视
+https://xtv.xmaroon.top:16666/stream/4c2935ced4b7e6201e64de9159597083
+#EXTINF:0 channelID="x-ID.82" tvg-chno="1082" tvg-name="杭州5青少" tvg-id="1082" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州5青少
+https://xtv.xmaroon.top:16666/stream/2ece9e2a7ab72fab1332edf78b981904
+#EXTINF:0 channelID="x-ID.83" tvg-chno="1083" tvg-name="杭州导视" tvg-id="1083" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州导视
+https://xtv.xmaroon.top:16666/stream/f3ef6887394166becc862608d57faedf
+#EXTINF:0 channelID="x-ID.102" tvg-chno="1102" tvg-name="余杭新闻" tvg-id="1102" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",余杭新闻
+https://xtv.xmaroon.top:16666/stream/4d239d636ceadf252e735fcef6f37e1d
+#EXTINF:0 channelID="x-ID.106" tvg-chno="1106" tvg-name="都市剧场" tvg-id="1106" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="影视剧场",都市剧场
+https://xtv.xmaroon.top:16666/stream/1f067ee15371f16a345a6e801e77f73c
+#EXTINF:0 channelID="x-ID.107" tvg-chno="1107" tvg-name="法制天地" tvg-id="1107" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="数字付费",法制天地
+https://xtv.xmaroon.top:16666/stream/5a14edc09deed65992f3589313d5220a
+#EXTINF:0 channelID="x-ID.108" tvg-chno="1108" tvg-name="动漫秀场" tvg-id="1108" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="数字付费",动漫秀场
+https://xtv.xmaroon.top:16666/stream/0d530cbe13415493463045c969f725f3
+#EXTINF:0 channelID="x-ID.110" tvg-chno="1110" tvg-name="乐游" tvg-id="1110" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="数字付费",乐游
+https://xtv.xmaroon.top:16666/stream/33ca891e76ffc40e4bc20c02072f6332
+#EXTINF:0 channelID="x-ID.111" tvg-chno="1111" tvg-name="金色学堂" tvg-id="1111" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="数字付费",金色学堂
+https://xtv.xmaroon.top:16666/stream/6dc015acdddb1a9272610c71022fe26e
+#EXTINF:0 channelID="x-ID.118" tvg-chno="1118" tvg-name="游戏频道" tvg-id="1118" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="游戏频道",游戏频道
+https://xtv.xmaroon.top:16666/stream/3fa5484f2d3182d6f9288cd082be191a
+#EXTINF:0 channelID="x-ID.120" tvg-chno="1120" tvg-name="未知频道" tvg-id="1120" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="高清剧场",未知频道
+https://xtv.xmaroon.top:16666/stream/17323702376350ed46990f7056bf1316
+#EXTINF:0 channelID="x-ID.121" tvg-chno="1121" tvg-name="中国蓝直播" tvg-id="1121" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="高清剧场",中国蓝直播
+https://xtv.xmaroon.top:16666/stream/fc778fe0f11436a13d1956a0bc71a06e
